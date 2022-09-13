@@ -5,7 +5,7 @@ import java.time.temporal.ChronoUnit;
 
 import javax.swing.JOptionPane;
 
-public class calculeIdade {
+public class CalculeIdade {
     public static void main(String[] args) {
         // JOPTIONS significa imprimir uma msg na tela.
         JOptionPane.showMessageDialog(null, "Digite sua data de nascimento ");
