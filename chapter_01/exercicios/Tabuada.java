@@ -13,10 +13,12 @@ public class Tabuada {
             System.out.printf("%d x %d = %d", valor, x, valor * x);
 
             System.out.println();
-
-            // Para encrementar a variavel x.
             x = x + 1;
+            // Para encrementar a variavel x.
+
         }
+
+        JOptionPane.showMessageDialog(null, "Obrigado por usar nossa calculadora inteligente, Tanks!!! ");
 
     }
 
