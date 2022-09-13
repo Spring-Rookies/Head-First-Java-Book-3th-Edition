@@ -17,7 +17,6 @@ public class WhileTest {
 
            // Para encrementar a variavel x.
             x = x + 1;
-            
         }
 
     }
