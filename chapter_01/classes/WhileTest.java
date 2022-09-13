@@ -1,5 +1,3 @@
-package headfirstjava.chapter_01.classes;
-
 import javax.swing.JOptionPane;
 
 public class WhileTest {

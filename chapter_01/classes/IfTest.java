@@ -1,5 +1,3 @@
-package headfirstjava.chapter_01.classes;
-
 public class IfTest {
     public static void main(String[] args) {
         int x = 2;
