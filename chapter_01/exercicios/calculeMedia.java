@@ -2,7 +2,7 @@ package headfirstjava.chapter_01.exercicios;
 
 import javax.swing.JOptionPane;
 
-public class calculeMedia {
+public class CalculeMedia {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,
                 "Seja bem vindo a nossa calculadora de medias, vamos juntos embarcar nessa viagem",
