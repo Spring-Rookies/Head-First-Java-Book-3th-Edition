@@ -1,11 +1,9 @@
-package headfirstjava.chapter_01.exercicios;
-
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
 import javax.swing.JOptionPane;
 
-public class DiasParaACopaDoMundo {
+public class CronometroCopaDoMundo {
     public static void main(String[] args) {
         // apresentar a msg na tela do usuario.
         JOptionPane.showMessageDialog(null, "Clique em ok para saber quantos dias faltam para a copa do mundo no Qatar",
@@ -24,3 +22,4 @@ public class DiasParaACopaDoMundo {
     }
 
 }
+

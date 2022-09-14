@@ -1,5 +1,3 @@
-package headfirstjava.chapter_01.exercicios;
-
 import javax.swing.JOptionPane;
 
 public class Tabuada {
