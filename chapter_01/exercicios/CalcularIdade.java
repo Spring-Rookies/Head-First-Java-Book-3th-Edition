@@ -1,11 +1,9 @@
-package headfirstjava.chapter_01.exercicios;
-
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
 import javax.swing.JOptionPane;
 
-public class CalculeIdade {
+public class CalcularIdade {
     public static void main(String[] args) {
         // JOPTIONS significa imprimir uma msg na tela.
         JOptionPane.showMessageDialog(null, "Digite sua data de nascimento ");
